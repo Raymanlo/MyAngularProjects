@@ -7,7 +7,7 @@ import { Component, Input } from '@angular/core';
     '<h1>{{cont1}}<h1>' +
     '<img src="https://www.tvinsider.com/wp-content/uploads/2021/03/BACK_TO_THE_FUTURE_2.jpg">' +
     '<div class="sinop">{{sinopsis1}}</div>',
-  styleUrls: ['./app.component.scss'],
+  styleUrls: ['./app.component.css'],
 })
 export class Contenido1Component {
   //@Input() cont1: String;
